@@ -1,0 +1,40 @@
+body {
+    font-family: cursive;
+}
+
+.jumbotron {
+    padding: 10px;
+}
+
+.center {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+
+.card-back {
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+a {
+    text-decoration: none;
+  }
+
+h4 {
+    text-align: center;
+}
+
+.custom-button {
+    margin-left: 10px;
+}
+
+.message-body {
+    width: 500px;
+}
+
+.message-center {
+    display: flex;
+    justify-content: center;
+}
