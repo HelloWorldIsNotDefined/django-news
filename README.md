@@ -2,6 +2,10 @@
 
 This is a simple Django news app.
 
+
+
+![Screenshot 2024-11-14 010116](https://github.com/user-attachments/assets/4217a5da-d607-48cd-8860-6e69a10a1d7b)
+
 ## How to Install and Run the Project
 To get this repository, run the following command inside your git enabled terminal.
 ```
