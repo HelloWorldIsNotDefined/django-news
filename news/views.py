@@ -18,7 +18,7 @@ class IndexView(View):
         title = request.GET.get('search')
         
         query_params = {
-            'apikey': 'e6e93ac0f1124c848f5fd8c1bb15727a',
+            'apikey': 'ENTER YOU APIKEY HERE',
             'language':'en',
             'q':title,
         }
